@@ -1,0 +1,8 @@
+zoom-in: \uE8a3
+delete: \uE74d
+heart: \uEb51
+rotate: \uE7ad
+edit: \ue70f
+share: \uE72d
+print: \uE749
+more: \uE712
